@@ -18,8 +18,6 @@ The platform combines conceptual learning with hands-on experimentation through 
 
 ## Screenshots
 
-> Replace these paths with your actual screenshots after uploading them to the repository.
-
 ### Dashboard
 ```md
 ![Dashboard](./screenshots/dashboard.png)
